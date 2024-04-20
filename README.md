@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bandyrocks
+- 👋 Hi, I’m Bandavya 
 - 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning Information technology
 - 💞️ I’m looking to collaborate on new innovative projects
